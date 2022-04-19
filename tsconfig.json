@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "strict": true, // use strict
+    "target": "es2020", // input
+    "module": "es2020", // output
+    "lib": ["DOM"], // front-end
+    "removeComments": true, // remove comment
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "rootDir": "source",
+    "outDir": "build",
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+  ],
+}
