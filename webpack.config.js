@@ -44,7 +44,7 @@ module.exports = {
     path: path.win32.join(__dirname, '/build/'),
 
     // output filename
-    filename: '[name].js',
+    filename: '[name].mjs',
 
     // clean dist-dir before build
     clean: true,

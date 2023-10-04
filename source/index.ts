@@ -1,7 +1,3 @@
-(()=>{
 
-  // loading...
-  console.log('[mysterious-dungeon]', 'loading...');
-
-  // 
-}).call(this);
+// loading...
+console.log('[mysterious-dungeon]', 'loading...');
